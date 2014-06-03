@@ -11,7 +11,7 @@ puts "What a quaint little string plus the integer " + 25.to_s + " in string for
 
 a = 45628 
 b = 7839
-puts "#{a+b}"
+puts "#{a*b}"
 
 #result of (true && false) || (true && false) || !(true && false)
 
